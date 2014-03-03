@@ -1,4 +1,4 @@
-package com.sinaapp.zhangziyou.po;
+package com.sinaapp.zhangziyou.pojo.po;
 
 import java.io.Serializable;
 import java.util.Date;
