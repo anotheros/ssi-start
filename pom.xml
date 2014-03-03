@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<packaging>war</packaging>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>reader</name>
+	<name>ssi-start</name>
 	<url>http://maven.apache.org</url>
 	<repositories>
 		<repository>
@@ -187,6 +187,6 @@
 		</plugins>
 	</build>
 	
-	<artifactId>reader</artifactId>
+	<artifactId>ssi-startr</artifactId>
 	<groupId>com.zhangziyou</groupId>
 </project>
