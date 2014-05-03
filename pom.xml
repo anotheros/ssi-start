@@ -186,6 +186,6 @@
 			</plugin>
 		</plugins>
 	</build>
-	<artifactId>ssi-startr</artifactId>
+	<artifactId>ssi-start</artifactId>
 	<groupId>com.zhangziyou</groupId>
 </project>
